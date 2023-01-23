@@ -1,4 +1,27 @@
+.body {
+    font-family: 'EB Garamond', serif !important;
+    font-family: 'Poppins', sans-serif !important;
+    font-family: 'Work Sans', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'EB Garamond', serif !important;
+}
+
+p {
+    font-family: 'Poppins', sans-serif !important;
+}
+
 .my_btn {
     background-color: #B68C5A !important;
     color: white !important;
 }
+
+.my_icon {
+    background-color: #B68C5A !important;
+    color: white !important;
+    padding: 8px !important;
+    border-radius: 20px !important;
+}
+
+
